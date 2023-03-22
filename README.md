@@ -4,7 +4,7 @@
   
 
 Some things about me :<br/>
-:one: I am a Software developer/ ERP Consultant with 5 years experience building ERPs.<br/>
+:one: I am a Software developer/ ERP Consultant with 6+ years experience building ERPs.<br/>
 :two: Proficient with Dynamics NAV Devlopment with CAL/CSIDE and Dynamics Business Central Development in AL.<br/>
 
 Current Interests:<br/>
